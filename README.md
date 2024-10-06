@@ -7,3 +7,7 @@ METHOD OVERRIDE
 MONGOOSE 
 EJS MATE
 NODE JS
+joi
+cookie parser
+express session 
+etc.
